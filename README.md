@@ -1,2 +1,2 @@
 # first-demo
-this is demo for Githud &amp; Git 
+Rhis is Demo for Github &amp; Git 
